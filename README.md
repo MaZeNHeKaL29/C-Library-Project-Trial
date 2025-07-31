@@ -10,5 +10,4 @@ gcc .\project_trial.c .\main_menu.c .\read_write_files.c .\helpers.c .\library_d
 ```bash
 cd output
 .\libray.exe
-cd..
 ```
